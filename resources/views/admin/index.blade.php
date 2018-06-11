@@ -35,6 +35,7 @@
 		  </div>
 
 		  <button type="submit" class="btn btn-default">Submit</button>
+		  <button>cancel</button>
 		</form>
 	</div>
 	<!-- form part -->
